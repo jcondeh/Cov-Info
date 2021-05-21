@@ -1,24 +1,20 @@
-# COV-INFO
-
 ## Mapa interactivo mundial con informacion sobre el Covid-19
 
 <div class="bingwidget" data-type="covid19_map" data-market="es-ES" data-language="es_ES" data-location-id="/Spain"></div>
 
 <script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
 
-## Mapa de restricciones de España
 
-<div class="section"><h3><span class="ladillo"><a id="restricciones-municipios" name="restricciones-municipios" tentacle-id="24091314b00cd8ba2eaf-47"><div class="external-embed-flourish">
-<script src="https://public.flourish.studio/resources/embed.js"></script><iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" src="https://flo.uri.sh/visualisation/4626619/embed?auto=1" style="width: 100%; height: 628.859px;"></iframe><div class="flourish-credit" style="width:100%!important;margin:0 0 4px!important;text-align:right!important;font-family:Helvetica,sans-serif!important;color:#888!important;font-size:11px!important;font-weight:bold!important;font-style:normal!important;-webkit-font-smoothing:antialiased!important;box-shadow:none!important;"><a href="https://flourish.studio/visualisations/maps/?utm_source=showcase&amp;utm_campaign=visualisation/4626619" target="_top" style="display:inline-block!important;text-decoration:none!important;font:inherit!important;color:inherit!important;border:none!important;margin:0 5px!important;box-shadow:none!important;" tentacle-id="7c57c6bdff231379e5d5-48"><img alt="Flourish logo" src="https://public.flourish.studio/resources/bosh.svg" style="font:inherit!important;width:auto!important;height:12px!important;border:none!important;margin:0 2px 0!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;"><span style="font:inherit!important;color:#888!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;">A Flourish map</span></a></div></div>
-<amp-iframe height="300" layout="responsive" noloading="" resizable="" sandbox="allow-scripts allow-same-origin" src="https://flo.uri.sh/visualisation/4626619/embed?auto=1" title="Interactive or visual content" width="400"><amp-img height="64" layout="fixed" placeholder="" src="https://public.flourish.studio/resources/bosh.svg" style="margin: auto" width="64"></amp-img>
 
-<div overflow=""></div>
-</amp-iframe>
-
-<p><a href="https://public.flourish.studio/visualisation/4626619/?utm_source=embed&amp;utm_campaign=visualisation/4626619" tentacle-id="3b4e37af29a94c1ea963-49"><amp-img alt="Made with Flourish" height="16" layout="fixed" src="https://public.flourish.studio/resources/made_with_flourish.svg" width="105"></amp-img></a></p>
-</div></div><!--HTTPS only...-->
 
 ## Noticias de ultima hora
+
+https://www.elmundo.es/ciencia-y-salud/salud/2021/05/13/609c575bfdddffbf998b4639.html
+
+
+
+
+## Mapa de restricciones de movilidad de España
 
 < div class = "section" > < h3 > < span class = "ladillo" > < a id = "restricciones-municipios"
 name = "restricciones-municipios"
