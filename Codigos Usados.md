@@ -1,6 +1,8 @@
 # COV-INFO
 
 ## Mapa interactivo mundial con informacion sobre el Covid-19
+
+
 <div class="bingwidget" data-type="covid19_map" data-market="es-ES" data-language="es_ES" data-location-id="/Spain"></div>
 
 <script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
